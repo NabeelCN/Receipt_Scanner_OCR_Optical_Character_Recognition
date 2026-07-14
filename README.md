@@ -1,3 +1,5 @@
+Receipt Scanner OCR (Optical Character Recognition)
+
 Project Overview
 
 This project is a Receipt Scanner OCR (Optical Character Recognition) system developed using Python, OpenCV, and PyTesseract. The application extracts text from receipt images and processes the information automatically. It helps in digitizing receipts, reducing manual data entry, and improving document management.
