@@ -40,17 +40,6 @@ PyTesseract
 Converts images into machine-readable text.
 EasyOCR (Optional)
 Provides improved text extraction for complex receipt images.
-Project Structure
-Receipt_Scanner_OCR_Optical_Character_Recognition/
-│
-├── data/                   # Receipt images
-├── notebooks/              # Jupyter/Colab files
-├── outputs/                # Extracted text files
-├── images/                 # Sample receipts and screenshots
-├── src/                    # Python scripts
-├── README.md
-└── requirements.txt
-Results
 
 The system successfully extracts text from receipt images and identifies key information with good accuracy after preprocessing and text cleaning.
 
